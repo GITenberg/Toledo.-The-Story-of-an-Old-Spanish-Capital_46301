@@ -1,0 +1,37 @@
+_repo: Toledo.-The-Story-of-an-Old-Spanish-Capital_46301
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: James, Helen M.
+    aliases:
+    - James, H. M.
+    - James, M. Helen
+    gutenberg_agent_id: '43710'
+    url: http://www.gutenberg.org/2009/agents/43710
+covers:
+- cover_type: archival
+  image_path: 46301-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynch, Hannah
+    birthdate: 1859
+    deathdate: 1904
+    gutenberg_agent_id: '43709'
+    url: http://www.gutenberg.org/2009/agents/43709
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2014-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcsh 'Toledo (Spain) -- Description and travel'
+- !lcc 'DP'
+- !lcsh 'Toledo (Spain) -- History'
+title: Toledo, the Story of an Old Spanish Capital
+url: http://www.gutenberg.org/ebooks/46301
