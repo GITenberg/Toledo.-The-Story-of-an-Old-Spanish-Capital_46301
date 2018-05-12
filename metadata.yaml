@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43709'
     url: http://www.gutenberg.org/2009/agents/43709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46301#Toledo.-The-Story-of-an-Old-Spanish-Capital
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2014-07-16'
 gutenberg_type: Text
